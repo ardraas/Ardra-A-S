@@ -34,7 +34,7 @@
 
 ## Projects
 
-### AI Resume Builder & Career Guidance Bot
+### AI Resume Builder
 
 Developing an AI-powered platform that generates professional resumes, analyzes skills, and provides personalized career guidance using Generative AI.
 
