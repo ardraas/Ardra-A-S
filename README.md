@@ -10,29 +10,33 @@
 - 💡 Interested in AI, UI/UX
 - 🎯 Preparing for Software Developer and IT Placements
 
+## Currently Working On
+
+🚀 AI Resume Builder & Career Guidance Bot
+
+📚 Placement Preparation
+
+🌱 Exploring AI and Web Development
+
 ## Skills
 
-### Programming Languages
+### Languages
 - Python
 - HTML
 - CSS
 - JavaScript
-
-### Web Development
-- HTML
-- CSS
 - React
+- SQL
 
 ### Tools
-- Git
 - GitHub
 - VS Code
-- Firebase
 
 ## Projects
 
 ### AI Resume Builder & Career Guidance Bot
-An AI-powered application that helps users create professional resumes and receive career guidance.
+
+Developing an AI-powered platform that generates professional resumes, analyzes skills, and provides personalized career guidance using Generative AI.
 
 ### VeinVision
 A healthcare-focused project developed using Python.
