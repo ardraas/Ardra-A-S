@@ -34,9 +34,9 @@
 
 ## Projects
 
-### AI Resume Builder
+### Resume Builder with Career Guidance
 
-Developing an AI-powered platform that generates professional resumes, analyzes skills, and provides personalized career guidance using Generative AI.
+A Resume Builder and Career Guidance System with automated resume scoring and skill-based career recommendations.
 
 ### VeinVision
 A healthcare-focused project developed using Python.
